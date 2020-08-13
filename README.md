@@ -1,5 +1,5 @@
 # Javier Portafolio
-Here you will find my projects that I am working on and learning on a day to day basis, during many learnings and real applications that can serve you for some personal objective.
+Here are my projects, i working and learning in everyday life for many learnings and real applications that can serve for any personal purpose.
 
 ### [Projects Datascience](http://www.google.com)
 - Project 1
